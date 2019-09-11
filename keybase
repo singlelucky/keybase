@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am singlelucky on github.
+  * I am tokenmore (https://keybase.io/tokenmore) on keybase.
+  * I have a public key ASBa6Sd2j9W_osqRvzECsv5PBbwHX_QUMiHAwPxynmrJWAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205ae927768fd5bfa2ca91bf3102b2fe4f05bc075ff4143221c0c0fc729e6ac9580a",
+      "host": "keybase.io",
+      "kid": "01205ae927768fd5bfa2ca91bf3102b2fe4f05bc075ff4143221c0c0fc729e6ac9580a",
+      "uid": "07ed7421590a6b1fad719840d9b38219",
+      "username": "tokenmore"
+    },
+    "merkle_root": {
+      "ctime": 1568199938,
+      "hash": "c5b4dc664e3ccd300d9b4ac31edf8b9ae66097b97ef184dc3b92605ba339ca70a975969198f6032be917ad1b9b3df054314892f2555a9c938aa2ba2ad2407708",
+      "hash_meta": "621f5e616d88d650b3f983b2921d23de19bf9351df9b051ca8582e88f42c8a73",
+      "seqno": 6683206
+    },
+    "service": {
+      "entropy": "iFqzm8SVhsGyzeWj5dP384wU",
+      "name": "github",
+      "username": "singlelucky"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568200293,
+  "expire_in": 504576000,
+  "prev": "c8ed4bdd94c95014bf94432eae2219ff62fd316f98543ecb0a8128d4ac32fac2",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBa6Sd2j9W_osqRvzECsv5PBbwHX_QUMiHAwPxynmrJWAo](https://keybase.io/tokenmore), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWukndo/Vv6LKkb8xArL+TwW8B1/0FDIhwMD8cp5qyVgKp3BheWxvYWTESpcCBMQgyO1L3ZTJUBS/lEMuriIZ/2L9MW+YVD7LCoEo1Kwy+sLEIOZOlgxf7/J0bf3R5evGhA20niR6lRC+7RoMjvztjz0LAgHCo3NpZ8RAH9th5tVASCSJyzOd6XUZ/tnCb6rSZe6jff/NiE7vm5fpaR8DRIP0uUPmvent2MoQN/0V17XfobooESXhCJ+nAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAI6D3Wj8Oa3WQsVkfReC0WumWtWn8uyeD4f5cDbU0j6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tokenmore
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tokenmore
+```
